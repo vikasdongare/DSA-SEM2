@@ -1,2 +1,2 @@
-# DSA-SEM2
-All the assignments of DSA SEM2 of CSE KKWIIER, NASHIK
+# DSA-SEM3
+All the assignments of DSA SEM3 of CSE KKWIIER, NASHIK
